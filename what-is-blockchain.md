@@ -10,6 +10,7 @@ There are two types of trust in the context of these systems:
 Using physical money is on decline. Instead people are increasingly using  
 electronical financial tools. Shifting payment interfaces from physical to  
 digital requires mechanisms to ensure trust especially to third parties.  
+Blockchain is another technology to establish trust. 
 
 Bitcoin was the first working system that utilizes blockchain, but it has  
 predecessors that failed. One of the main reason of this failures was inability  
