@@ -34,6 +34,6 @@ doesn't necessarily collaborate with every other node to achive its objective, a
 decision making is done through concensus instead of relying on a single entity  
 to make decisions and determine objectives.
 
-<img src="network-design.png" width="500">
-
-
+<img src="centralized-database.png" width="500">
+<img src="distributed-database.png" width="500">
+<img src="decentralized-database.png" width="500">
